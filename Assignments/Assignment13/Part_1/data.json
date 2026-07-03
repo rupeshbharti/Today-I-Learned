@@ -1,0 +1,41 @@
+[
+  {
+    "employee_id": "EMP101",
+    "name": "Arjun Sharma",
+    "department": "Engineering",
+    "role": "Backend Developer",
+    "salary": 85000,
+    "hire_date": "2023-03-15",
+    "skills": ["Python", "Django", "PostgreSQL"],
+    "contact": {
+      "email": "arjun.s@company.com",
+      "city": "Pune"
+    }
+  },
+  {
+    "employee_id": "EMP102",
+    "name": "Priya Patel",
+    "department": "Design",
+    "role": "UI/UX Designer",
+    "salary": 72000,
+    "hire_date": "2024-01-10",
+    "skills": ["Figma", "Adobe XD", "Wireframing"],
+    "contact": {
+      "email": "priya.p@company.com",
+      "city": "Mumbai"
+    }
+  },
+  {
+    "employee_id": "EMP103",
+    "name": "Rohan Das",
+    "department": "Engineering",
+    "role": "Frontend Developer",
+    "salary": 78000,
+    "hire_date": "2022-11-01",
+    "skills": ["React", "JavaScript", "CSS"],
+    "contact": {
+      "email": "rohan.d@company.com",
+      "city": "Bengaluru"
+    }
+  }
+]
