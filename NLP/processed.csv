@@ -1,0 +1,21 @@
+review,sentiment,clean_review,token,token_count,filtered_token,stemmed_token,lematize_token,processed_token
+This movie was amazing,Positive,this movie was amazing,"['this', 'movie', 'was', 'amazing']",4,"['movie', 'amazing']","['movi', 'amaz']","['movie', 'amaze']",movie amaze
+I loved every scene,Positive,i loved every scene,"['i', 'loved', 'every', 'scene']",4,"['loved', 'every', 'scene']","['love', 'everi', 'scene']","['love', 'every', 'scene']",love every scene
+Fantastic acting,Positive,fantastic acting,"['fantastic', 'acting']",2,"['fantastic', 'acting']","['fantast', 'act']","['fantastic', 'act']",fantastic act
+Best movie ever,Positive,best movie ever,"['best', 'movie', 'ever']",3,"['best', 'movie', 'ever']","['best', 'movi', 'ever']","['best', 'movie', 'ever']",best movie ever
+Wonderful story,Positive,wonderful story,"['wonderful', 'story']",2,"['wonderful', 'story']","['wonder', 'stori']","['wonderful', 'story']",wonderful story
+Excellent direction,Positive,excellent direction,"['excellent', 'direction']",2,"['excellent', 'direction']","['excel', 'direct']","['excellent', 'direction']",excellent direction
+Superb cinematography,Positive,superb cinematography,"['superb', 'cinematography']",2,"['superb', 'cinematography']","['superb', 'cinematographi']","['superb', 'cinematography']",superb cinematography
+Highly recommended,Positive,highly recommended,"['highly', 'recommended']",2,"['highly', 'recommended']","['highli', 'recommend']","['highly', 'recommend']",highly recommend
+Brilliant screenplay,Positive,brilliant screenplay,"['brilliant', 'screenplay']",2,"['brilliant', 'screenplay']","['brilliant', 'screenplay']","['brilliant', 'screenplay']",brilliant screenplay
+I enjoyed the movie,Positive,i enjoyed the movie,"['i', 'enjoyed', 'the', 'movie']",4,"['enjoyed', 'movie']","['enjoy', 'movi']","['enjoy', 'movie']",enjoy movie
+Worst movie ever,Negative,worst movie ever,"['worst', 'movie', 'ever']",3,"['worst', 'movie', 'ever']","['worst', 'movi', 'ever']","['worst', 'movie', 'ever']",worst movie ever
+I hated this film,Negative,i hated this film,"['i', 'hated', 'this', 'film']",4,"['hated', 'film']","['hate', 'film']","['hat', 'film']",hat film
+Terrible acting,Negative,terrible acting,"['terrible', 'acting']",2,"['terrible', 'acting']","['terribl', 'act']","['terrible', 'act']",terrible act
+Waste of time,Negative,waste of time,"['waste', 'of', 'time']",3,"['waste', 'time']","['wast', 'time']","['waste', 'time']",waste time
+Very boring,Negative,very boring,"['very', 'boring']",2,['boring'],['bore'],['bore'],bore
+Bad storyline,Negative,bad storyline,"['bad', 'storyline']",2,"['bad', 'storyline']","['bad', 'storylin']","['bad', 'storyline']",bad storyline
+Poor direction,Negative,poor direction,"['poor', 'direction']",2,"['poor', 'direction']","['poor', 'direct']","['poor', 'direction']",poor direction
+Not recommended,Negative,not recommended,"['not', 'recommended']",2,"['not', 'recommended']","['not', 'recommend']","['not', 'recommend']",not recommend
+Horrible experience,Negative,horrible experience,"['horrible', 'experience']",2,"['horrible', 'experience']","['horribl', 'experi']","['horrible', 'experience']",horrible experience
+Disappointing movie,Negative,disappointing movie,"['disappointing', 'movie']",2,"['disappointing', 'movie']","['disappoint', 'movi']","['disappoint', 'movie']",disappoint movie
