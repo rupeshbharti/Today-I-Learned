@@ -1,31 +1,30 @@
 ## __Assignment 12__ :
 
-    I used walmart sales data for this assignment.
+    I used avocado prices data for this assignment.
 
 ### Task 1:
     - For this task firstly cleaned and manipulated the data.
     - So I can easily visualise
-    - Changed Date into Months
+    - Created relpot and scatterplot.
 
 ### Task 2:
-    - Visualized relationship between Months and sales
-
+    - Visualized line plot and scatter-style line plot Average price vs Year.
+    - Visualized relplot and splited plot based on column.
 ### Task 3:
-    - Visualized temperature in months of 2010.
+    - Visualized histogram and KDE of Average Price distribution.
+    - Visualized Rugplot and mixed histogram and KDE plot.
 
 ### Task 4:
-    - It was difficult to visualize so I grouped dates into year and quarter.
-    - And then visualized sales of each year by respective quarters.
+    - Visualized Bivariate histogram and KDE.
 
 ### Task 5:
-    - Same thing applied here
-    - Just changed concept of multiple into stacked bar.
+    - Created pairplot using 4 columns and heatmap using 3 columns
 
 ### Task 6:
-    - Visualized distribution of temperature every month.
+    - Visualized barplot , boxplot, violinplot and count plot.
 
 ### Task 7:
-    - Visualized Pie Chart By grouping the sales of each year.
+    - Visualized regression plot and lmplot.
 
 ## __How to Run__
 
